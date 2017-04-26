@@ -4,7 +4,7 @@ Thsi is a psd to html conversion project. I have used here
 	-Bootstrap
 	-JavaScript (a little)
 
-Readme file changed
+
 changes from local
 change2 from server
 line added
