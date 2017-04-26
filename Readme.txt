@@ -5,3 +5,4 @@ Thsi is a psd to html conversion project. I have used here
 	-JavaScript (a little)
 
 Readme file changed
+Changed from server
