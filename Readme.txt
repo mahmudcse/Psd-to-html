@@ -5,7 +5,3 @@ Thsi is a psd to html conversion project. I have used here
 	-JavaScript (a little)
 
 
-changes from local
-change2 from server
-line added
-More task from local
